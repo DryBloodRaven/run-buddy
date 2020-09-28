@@ -12,3 +12,5 @@ Https://DryBloodRaven.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Alex Proctor
+
+# Run Buddy Inc.
